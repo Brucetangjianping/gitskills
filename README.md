@@ -8,4 +8,4 @@ the git is too easy and cmd is simple
 
 the git is add a new branch
 
-now need fixed the bug and storge the unfinished code
+now hava fixed the bug and storge the unfinished code
