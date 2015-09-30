@@ -6,4 +6,6 @@ the git is quick and simple
 
 the git is too easy and cmd is simple 
 
-the git is add a new branch
+the git is add a new branch 
+
+I need to fixed a bug ,so I hava to stash the file 
