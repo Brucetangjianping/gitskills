@@ -4,4 +4,4 @@ The first file name README.md
 
 the git is quick and simple
 
-the git now in master
+the git is too easy and cmd is simple 
